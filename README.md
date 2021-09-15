@@ -19,7 +19,7 @@
 
 ## ⚙️&nbsp;<i>GitHub Analytics</i>
 [![My GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=ireneelizabethsabu&show_icons=true&theme=vue&include_all_commits=true&count_private=true)](https://github.com/ireneelizabethsabu/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ireneelizabethsabu&layout=compact&langs_count=6&theme=vue&hide=Objective-C,Starlark,Ruby&card_width=415)](https://github.com/ireneelizabethsabu/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ireneelizabethsabu&layout=compact&langs_count=6&theme=vue&hide=Objective-C,Starlark,Ruby)](https://github.com/ireneelizabethsabu/github-readme-stats)
 
 ## 🤝🏻&nbsp;Connect with Me
 <a href="irene@cet.ac.in">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
