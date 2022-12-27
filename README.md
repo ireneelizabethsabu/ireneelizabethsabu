@@ -1,5 +1,5 @@
 # <p align="center"><i>Hi 👋, I am Irene Elizabeth Sabu</i></p>
-<p align="center"><i>I am a <b>second year</b> computer science and engineering student at <b>College Of Engineering, Trivandrum</b>. <br/> A <b>passionate learner</b> interested in web developement and learning new things.</i> </p>
+<p align="center"><i>I am a <b>fourth year</b> computer science and engineering student at <b>College Of Engineering, Trivandrum</b>. <br/> A <b>passionate learner</b> interested in web developement and learning new things.</i> </p>
 
 ## 🛠 &nbsp;<i>Tech Stack</i>
 ### <i>Programming Languages</i>
