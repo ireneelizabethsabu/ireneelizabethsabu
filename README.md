@@ -9,14 +9,16 @@
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+C#
 
 ### <i>Frameworks and Libraries</i>
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![ReactNative]
-![Kotlin]
+React-Native
+Kotlin
+Angular
 
 ## ⚙️&nbsp;<i>GitHub Analytics</i>
 [![My GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=ireneelizabethsabu&show_icons=true&theme=vue&include_all_commits=true&count_private=true)](https://github.com/ireneelizabethsabu/github-readme-stats)
